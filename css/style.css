@@ -1,0 +1,40 @@
+.intro {
+  background-color: greenyellow;
+}
+
+p.hometown { 
+  background: yellow;
+}
+
+p.center {
+  font-size: 50px;
+  text-align: center;
+  color: darkgreen;
+}
+
+p.large {
+  font-size: 300%;
+}
+
+#firstname {
+  background-color: royalblue;
+}
+
+#hometown {
+  background-color: red;
+}
+
+h2, h3 {
+  background-color: blueviolet;
+}
+
+div > h5 {
+  background-color: seagreen;
+}
+
+p:empty {
+  width: 100px;
+  height: 20px;
+  background: #ff0000;
+}
+
